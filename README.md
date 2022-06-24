@@ -13,6 +13,7 @@
 <a href="https://instagram.com/yasinmghazli" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+
   
 
 <br/>  
@@ -65,17 +66,10 @@
 
 <br/>  
 
-  
-
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=yasinbarcelos&&style=flat-square)  
   
-
 <br/>  
-
-
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
