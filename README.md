@@ -1,5 +1,4 @@
 ## I'm Yá-Sin B Mghazli  
-  
 
 <a href="https://twitter.com/yasinmghazli" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -14,25 +13,8 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
-  
-
-<br/>  
-
-<details><table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table></details>  
-
-<br/>  
-
-
 ## Languages and Tools  
-<div align="center">  
+<div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="25" />  
@@ -51,27 +33,15 @@
 <img style="margin: 10px" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="Solidity" height="25" />  
 </div>  
 
-<br/>  
-
-
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
-
-
 <img src="https://github.com/yasinbarcelos/github-stats-transparent/blob/output/generated/overview.svg" align="center" style="width: 100%" />
 
 </td><td valign="top" width="50%">
-
 <img src="https://github.com/yasinbarcelos/github-stats-transparent/blob/output/generated/languages.svg" align="center" style="width: 100%" />
-
 </td></tr></table>  
-
-<br/>  
-
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=yasinbarcelos&&style=flat-square)  
   
-<br/>  
-<br />
-
+<br/> 
